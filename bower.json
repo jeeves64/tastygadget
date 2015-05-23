@@ -1,0 +1,13 @@
+{
+  "name": "tastygadget",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "",
+  "keywords": "",
+  "ignore": [],
+  "main": "app.js",
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
